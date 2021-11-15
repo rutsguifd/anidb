@@ -4,7 +4,7 @@ import AnimeDetail from '../views/AnimeDetail.vue'
 
 const routes = [
   {
-    path: '/',
+    path: '/b',
     name: 'Home',
     component: Home
   },
